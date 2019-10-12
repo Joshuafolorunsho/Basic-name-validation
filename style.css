@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+label {
+	display: block;
+}
+input {
+	width: 500px;
+	height: 30px;
+}
+.form {
+	margin-bottom: 20px;
+}
